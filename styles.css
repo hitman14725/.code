@@ -1,0 +1,7 @@
+html body{
+    height:max-content;
+}
+body{
+    background: linear-gradient(white, gray) no-repeat;
+   
+}
